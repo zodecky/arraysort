@@ -1,6 +1,7 @@
 # Array Sorting Algorithms
 
 This project contains implementations of various array sorting algorithms and a script to test their performance.
+It also uses matplotlib to show a graph (log scale).
 
 ## Description
 
@@ -10,9 +11,8 @@ The main file, `arraysort.py`, includes implementations of merge sort, quick sor
 
 ### Dependencies
 
-This project requires Python 3.8 or later. It also requires the following Python packages:
+This project was tested in Python 3.10. It also requires the following packages:
 
-- numpy
 - matplotlib
 
 Vscode was used as the enviroment, with the default python extension installed.
@@ -23,7 +23,7 @@ Vscode was used as the enviroment, with the default python extension installed.
 2. Install the required packages with pip:
 
 ```bash
-pip install numpy matplotlib
+pip install matplotlib
 ```
 
 ## Run
