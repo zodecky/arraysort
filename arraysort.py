@@ -8,7 +8,6 @@ compares their performance and generate a graph.
 import random
 import time
 import matplotlib.pyplot as plt
-import numpy as np
 from typing import List
 
 
